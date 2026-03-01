@@ -1,4 +1,5 @@
 ![splash](https://raw.githubusercontent.com/FollyMaddy/media/main/animated_gif/themes/cygnus-blue-flames.gif)
+<img width="1280" height="720" alt="splash" src="https://github.com/user-attachments/assets/1993c458-e188-41fb-ab42-5a18e370cb8c" />
 
 ## EmulationStation Theme: Cygnus - Blue Flames
 Cygnus Blue Flames is an adapted theme, available from the ES-x Theme Browser, that displays large preview images, videos, marquees, all title-oriented metadata and some useful user-oriented metadata.
